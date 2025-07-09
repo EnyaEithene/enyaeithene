@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Enya, and as an Applied Mathematics and CS undergraduate I love experimenting with: 
+- appearence and style using CSS;
+- data managing using SQL and MariaDB;
+- utilities with bash or Python;
+- any other app that allows file or information managing and sharing.
+
+Currently pursuing a Master's degree.
 <!--
 **EnyaEithene/enyaeithene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
