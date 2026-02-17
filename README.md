@@ -6,7 +6,7 @@ I'm Enya, and as an Applied Mathematics and CS undergraduate I love experimentin
 - utilities with bash or Python;
 - any other app that allows file or information managing and sharing.
 
-Currently pursuing a Master's degree.
+Currently pursuing a Master's degree in Data Analysis.
 <!--
 **EnyaEithene/enyaeithene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
