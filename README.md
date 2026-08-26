@@ -1,4 +1,4 @@
-## Hi there 👋
+## ✨ Hello and welcome to my page! ✨
 
 I'm Enya, and as an Applied Mathematics and CS undergraduate I love experimenting with: 
 - appearence and style using CSS;
